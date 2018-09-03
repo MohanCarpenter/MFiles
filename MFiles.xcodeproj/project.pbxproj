@@ -12,18 +12,13 @@
 		0440ECB9213D918100E53D9F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0440ECB7213D918100E53D9F /* Main.storyboard */; };
 		0440ECBB213D918100E53D9F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0440ECBA213D918100E53D9F /* Assets.xcassets */; };
 		0440ECBE213D918100E53D9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0440ECBC213D918100E53D9F /* LaunchScreen.storyboard */; };
-		0440ECC6213D91A200E53D9F /* Button.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0440ECC5213D91A200E53D9F /* Button.swift */; };
 		0440ECC8213D91A900E53D9F /* Color.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0440ECC7213D91A900E53D9F /* Color.swift */; };
 		0440ECCA213D91B100E53D9F /* Array.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0440ECC9213D91B100E53D9F /* Array.swift */; };
 		0440ECCC213D91BA00E53D9F /* Date.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0440ECCB213D91BA00E53D9F /* Date.swift */; };
 		0440ECCE213D91C100E53D9F /* Device.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0440ECCD213D91C100E53D9F /* Device.swift */; };
 		0440ECD0213D91CC00E53D9F /* Dictionary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0440ECCF213D91CC00E53D9F /* Dictionary.swift */; };
-		0440ECD3213D91DC00E53D9F /* GifLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0440ECD1213D91DC00E53D9F /* GifLoader.swift */; };
-		0440ECD4213D91DC00E53D9F /* iOSDevCenters+GIF.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0440ECD2213D91DC00E53D9F /* iOSDevCenters+GIF.swift */; };
-		0440ECD6213D91E400E53D9F /* Http.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0440ECD5213D91E400E53D9F /* Http.swift */; };
 		0440ECD9213D923000E53D9F /* StoreToDevice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0440ECD7213D923000E53D9F /* StoreToDevice.swift */; };
 		0440ECDA213D923000E53D9F /* KeychainPasswordItem.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0440ECD8213D923000E53D9F /* KeychainPasswordItem.swift */; };
-		0440ECDC213D923C00E53D9F /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0440ECDB213D923C00E53D9F /* Reachability.swift */; };
 		0440ECDE213D924400E53D9F /* String.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0440ECDD213D924400E53D9F /* String.swift */; };
 /* End PBXBuildFile section */
 
@@ -35,18 +30,13 @@
 		0440ECBA213D918100E53D9F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0440ECBD213D918100E53D9F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0440ECBF213D918100E53D9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0440ECC5213D91A200E53D9F /* Button.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Button.swift; sourceTree = "<group>"; };
 		0440ECC7213D91A900E53D9F /* Color.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Color.swift; sourceTree = "<group>"; };
 		0440ECC9213D91B100E53D9F /* Array.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Array.swift; sourceTree = "<group>"; };
 		0440ECCB213D91BA00E53D9F /* Date.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Date.swift; sourceTree = "<group>"; };
 		0440ECCD213D91C100E53D9F /* Device.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Device.swift; sourceTree = "<group>"; };
 		0440ECCF213D91CC00E53D9F /* Dictionary.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Dictionary.swift; sourceTree = "<group>"; };
-		0440ECD1213D91DC00E53D9F /* GifLoader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GifLoader.swift; sourceTree = "<group>"; };
-		0440ECD2213D91DC00E53D9F /* iOSDevCenters+GIF.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "iOSDevCenters+GIF.swift"; sourceTree = "<group>"; };
-		0440ECD5213D91E400E53D9F /* Http.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Http.swift; sourceTree = "<group>"; };
 		0440ECD7213D923000E53D9F /* StoreToDevice.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StoreToDevice.swift; sourceTree = "<group>"; };
 		0440ECD8213D923000E53D9F /* KeychainPasswordItem.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KeychainPasswordItem.swift; sourceTree = "<group>"; };
-		0440ECDB213D923C00E53D9F /* Reachability.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
 		0440ECDD213D924400E53D9F /* String.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = String.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -83,14 +73,9 @@
 				0440ECC9213D91B100E53D9F /* Array.swift */,
 				0440ECD8213D923000E53D9F /* KeychainPasswordItem.swift */,
 				0440ECD7213D923000E53D9F /* StoreToDevice.swift */,
-				0440ECD5213D91E400E53D9F /* Http.swift */,
-				0440ECDB213D923C00E53D9F /* Reachability.swift */,
 				0440ECCD213D91C100E53D9F /* Device.swift */,
-				0440ECD1213D91DC00E53D9F /* GifLoader.swift */,
 				0440ECDD213D924400E53D9F /* String.swift */,
-				0440ECD2213D91DC00E53D9F /* iOSDevCenters+GIF.swift */,
 				0440ECCB213D91BA00E53D9F /* Date.swift */,
-				0440ECC5213D91A200E53D9F /* Button.swift */,
 				0440ECCF213D91CC00E53D9F /* Dictionary.swift */,
 				0440ECB3213D918100E53D9F /* AppDelegate.swift */,
 				0440ECC7213D91A900E53D9F /* Color.swift */,
@@ -175,17 +160,12 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0440ECDC213D923C00E53D9F /* Reachability.swift in Sources */,
 				0440ECB6213D918100E53D9F /* ViewController.swift in Sources */,
-				0440ECD4213D91DC00E53D9F /* iOSDevCenters+GIF.swift in Sources */,
 				0440ECD9213D923000E53D9F /* StoreToDevice.swift in Sources */,
 				0440ECD0213D91CC00E53D9F /* Dictionary.swift in Sources */,
 				0440ECCC213D91BA00E53D9F /* Date.swift in Sources */,
-				0440ECD6213D91E400E53D9F /* Http.swift in Sources */,
 				0440ECCA213D91B100E53D9F /* Array.swift in Sources */,
 				0440ECC8213D91A900E53D9F /* Color.swift in Sources */,
-				0440ECC6213D91A200E53D9F /* Button.swift in Sources */,
-				0440ECD3213D91DC00E53D9F /* GifLoader.swift in Sources */,
 				0440ECCE213D91C100E53D9F /* Device.swift in Sources */,
 				0440ECDE213D924400E53D9F /* String.swift in Sources */,
 				0440ECB4213D918100E53D9F /* AppDelegate.swift in Sources */,

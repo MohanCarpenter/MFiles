@@ -8,9 +8,7 @@
 
 import UIKit
 
-class Array1: NSArray {
 
-}
 
 public extension NSArray {
     public func string () -> String {
